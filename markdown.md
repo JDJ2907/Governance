@@ -29,11 +29,21 @@ Fase 3 is de ‘gereed’ fase, bij deze fase wordt er een landingszone opgestel
 
 ## <a name="bijdrage"></a>Hoe draagt dit framework bij aan governance?
 
+Een van de hoofdonderwerpen van dit framework is Governance. Het beschrijft wat er nodig is om tot een goede governancestructuur te komen. Zo moet er basiskennis zijn over de achterliggende methodologie van cloudgovernance. Een benchmark om de governance tegen te kunnen testen. Het begint daarna met een eerste governancestructuur met daarin een aantal basisregels. Tijdens de implementatie van de cloud zullen hier extra governanceregels aan toegevoegd moeten worden.
+
+Het framework biedt hierin voorbeelden die veelvoorkomende ervangen van andere klanten vertegenwoordigen. Op basis hiervan kan je een eigen implementatie kiezen.
+
+Daarnaast is er hulp bij het maken van aangepaste governanceoplossingen gericht op meerdere cloud platformen.
+
 ## <a name="aspecten"></a>Worden alle governance aspecten afgedekt?
 
 ## <a name="sterkepunten"></a>Sterke en minder sterke punten
 
 ## <a name="providers"></a>Conformeren de grote providers zich aan dit framework?
+
+Het framework is opgezet door Microsoft en is voornamelijk gericht op de cloud van Microsoft, Azure. Het Azure platform werkt dus volledig volgens dit framework. De overige grote cloud providers, Google Cloud Platform en Amazon AWS, zullen dus niet volledig conform dit framework werken. Zij hebben hiervoor hun eigen frameworks: Google Cloud Adoption Framework en AWS Cloud Adoption Framework.
+
+Er staat wel een hoop algemene cloud adoptie informatie in de documentatie die ook op andere providers toegepast kan worden. Er zal hierbij wel andere methodologie gebruikt worden waardoor het niet 1 op 1 aansluit.
 
 ## <a name="bronnen"></a>Bronnen
 * https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/
