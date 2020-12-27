@@ -36,8 +36,15 @@ Het framework biedt hierin voorbeelden die veelvoorkomende ervangen van andere k
 Daarnaast is er hulp bij het maken van aangepaste governanceoplossingen gericht op meerdere cloud platformen.
 
 ## <a name="aspecten"></a>Worden alle governance aspecten afgedekt?
+In het Microsoft Cloud Adoption Framework worden de 5 disciplines van Cloud governance behandeld. Cost management, Security Baseline, Resource Consistency, Identity Baseline en Deployment Acceleration. Elke discipline heeft betrekking op bepaalde risico’s die kunnen optreden tijdens de implementatie van services in de Cloud. Het framework helpt bij het bepalen van de acties die moeten worden ondernomen door bijvoorbeeld het CCoE of een Cloud Architect. Dit zijn acties en best practices die het risico op elk aspect van governance verminderen zoals het verminderen van een risico bij spenderen van kosten bij een Cloud service implementatie.
+
+De governance in het Microsoft Cloud Adoption Framework heeft dus vereiste acties en best practices die een bedrijf kan uitvoeren om risico’s te verminderen op de belangrijkste aspecten van Cloud Governance. Hierdoor wordt er voor, tijdens en na de implementatie van Cloud services op de beste manier gemonitord en worden risico’s voorkomen.
 
 ## <a name="sterkepunten"></a>Sterke en minder sterke punten
+
+Met het Microsoft Cloud Adoption Framework is het voor bedrijven die willen migreren naar de Cloud een makkelijk hulpmiddel om dit proces te ondersteunen. Dit framework helpt namelijk erg goed bij de juiste keuzes maken en bij processen op de juiste manieren uitvoeren. Voor een migratie naar de Azure Cloud is dit framework perfect, het is hier tevens voor gemaakt. Met het Azure framework wordt er gebruik gemaakt van de best practices om de stappen van een migratie te doorlopen. 
+
+Het enige nadeel van dit framework is dat het is ontworpen voor Azure. Voor gebruik van dit framework met een andere Cloud provider zou het kunnen dat enige stappen en/of best practices niet werken vanwege het verschil in sommige services. Het zou voor kunnen komen dat wanneer dit framework wordt gebruikt voor een migratie naar de Google Cloud dat niet elke stap kan worden uitgevoerd zoals bij een migratie naar de Azure Cloud. Maar voor een Azure migraties is dit vanwege het ‘stappenplan’ en de bijbehorende best practices een perfect framework.
 
 ## <a name="providers"></a>Conformeren de grote providers zich aan dit framework?
 
